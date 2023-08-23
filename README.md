@@ -59,6 +59,12 @@ Follow these steps to use the program:
 
 Note: Ensure that the number of clusters specified when running the program matches the desired number of clusters for partitioning the data.
 
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+
 ## Authors
 
 - [Khaled Ashraf Hanafy Mahmoud - 20190186](https://github.com/KhaledAshrafH).
